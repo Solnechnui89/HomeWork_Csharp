@@ -1,0 +1,15 @@
+C:\GB\HomeWork_C#\HomeWork\Work_6\Work6_3\bin\Debug\net6.0\Work6_3.exe
+C:\GB\HomeWork_C#\HomeWork\Work_6\Work6_3\bin\Debug\net6.0\Work6_3.deps.json
+C:\GB\HomeWork_C#\HomeWork\Work_6\Work6_3\bin\Debug\net6.0\Work6_3.runtimeconfig.json
+C:\GB\HomeWork_C#\HomeWork\Work_6\Work6_3\bin\Debug\net6.0\Work6_3.dll
+C:\GB\HomeWork_C#\HomeWork\Work_6\Work6_3\bin\Debug\net6.0\Work6_3.pdb
+C:\GB\HomeWork_C#\HomeWork\Work_6\Work6_3\obj\Debug\net6.0\Work6_3.csproj.AssemblyReference.cache
+C:\GB\HomeWork_C#\HomeWork\Work_6\Work6_3\obj\Debug\net6.0\Work6_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB\HomeWork_C#\HomeWork\Work_6\Work6_3\obj\Debug\net6.0\Work6_3.AssemblyInfoInputs.cache
+C:\GB\HomeWork_C#\HomeWork\Work_6\Work6_3\obj\Debug\net6.0\Work6_3.AssemblyInfo.cs
+C:\GB\HomeWork_C#\HomeWork\Work_6\Work6_3\obj\Debug\net6.0\Work6_3.csproj.CoreCompileInputs.cache
+C:\GB\HomeWork_C#\HomeWork\Work_6\Work6_3\obj\Debug\net6.0\Work6_3.dll
+C:\GB\HomeWork_C#\HomeWork\Work_6\Work6_3\obj\Debug\net6.0\refint\Work6_3.dll
+C:\GB\HomeWork_C#\HomeWork\Work_6\Work6_3\obj\Debug\net6.0\Work6_3.pdb
+C:\GB\HomeWork_C#\HomeWork\Work_6\Work6_3\obj\Debug\net6.0\Work6_3.genruntimeconfig.cache
+C:\GB\HomeWork_C#\HomeWork\Work_6\Work6_3\obj\Debug\net6.0\ref\Work6_3.dll
